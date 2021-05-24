@@ -36,7 +36,6 @@ public class Bichos {
     }
 
     public static boolean termina(){
-        boolean acabado = true;
         int contador = 0;
         for(int i=0;i<bichos.length;i++){
             for(int j=0;j<bichos.length;j++){
